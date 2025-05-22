@@ -249,3 +249,7 @@ kelembaban_query = kelembaban_alert.writeStream \
 spark.streams.awaitAnyTermination()
 
 ```
+
+Output:
+![image](https://github.com/user-attachments/assets/b62da3e2-2ac0-4a04-b1f4-4109057e592a)
+
