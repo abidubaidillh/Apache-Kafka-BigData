@@ -71,8 +71,6 @@ Jika ditemukan suhu > 80°C dan kelembaban > 70% pada gudang yang sama, tampilka
 project/
 │
 ├── docker-compose.yml
-├── kafka/
-│   └── ...
 ├── producers/
 │   ├── suhu_producer.py
 │   └── kelembaban_producer.py
